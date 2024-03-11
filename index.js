@@ -1,4 +1,4 @@
-const { divide } = require("./src/utils/math");
+import { divide } from "./src/utils/math";
 
 const a = 45;
 const b = 42;
