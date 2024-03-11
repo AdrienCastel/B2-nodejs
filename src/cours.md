@@ -12,3 +12,6 @@ const = définir une variable qui ne change pas
 var = Définir une variable (utilisation global mais a eviter)
 ```
 
+```[]``` est utilisé pour faire un tableau
+
+```nom-variable.push("x");``` -> Ajoute le mot x au tableau
